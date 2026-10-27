@@ -78,8 +78,6 @@ This project is open-source and available for educational and portfolio purposes
 
 ## Acknowledgments
 
-I would like to express my sincere gratitude to **Lanai Anggun Event Space** for giving me the opportunity and trust to develop this project as part of my Bachelor's Degree Final Year Project. Their cooperation and real-world insights were instrumental in shaping the features and functionality of this booking system.   
-  
-  #### Instagram: https://www.instagram.com/lanaianggunecosky
+I would like to express my sincere gratitude to **[Lanai Anggun Event Space](https://www.instagram.com/lanaianggunecosky)** for giving me the opportunity and trust to develop this project as part of my Bachelor's Degree Final Year Project. Their cooperation and real-world insights were instrumental in shaping the features and functionality of this booking system.
 
 
